@@ -1,2 +1,2 @@
 # AI-Engine
-Personal raining for artificial intelligence
+Personal training for artificial intelligence
